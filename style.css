@@ -1,7 +1,17 @@
+.row{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 .one-panel{background-color: white;
 border:3px solid brown;
 border-radius:10px;
-width:200px;
+width:300px;
 margin-left: 50px;
 display:inline-block;
 box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
@@ -64,9 +74,8 @@ border-radius: 8px;}
 background-color: white;
 border: none;
 border-radius:10px;
-width:200px;
+width:300px;
 margin-top: 0px;
-margin-left: 210px;
 display:inline-block;
 border:3px solid brown;
 box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
@@ -108,7 +117,7 @@ border-radius: 8px;}
 .third-panel{background-color: white;
 border: none;
 border-radius:10px;
-width:200px;
+width:400px;
 margin: 20px auto 0;
 display:block;
 border:3px solid brown;
@@ -149,7 +158,7 @@ border-radius: 8px;}
 .fourth-panel{background-color: white;
 border:3px solid brown;
 border-radius:10px;
-width:200px;
+width:300px;
 margin-left: 50px;
 margin-top: 20px;
 display:inline-block;
@@ -192,9 +201,8 @@ border-radius: 8px;}
 .fifth-panel{background-color: white;
 border: none;
 border-radius:10px;
-width:200px;
+width:300px;
 margin-top: 20px;
-margin-left: 210px;
 display:inline-block;
 border:3px solid brown;
 box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
@@ -232,4 +240,10 @@ border: none;
 padding:5px 10px;
 border-radius: 8px;}
 .book-five:hover{background-color: rgb(43, 171, 226);}
+
+.K{font-weight: bolder;
+font-size:30px;
+text-align: end;
+font-style: italic;
+}
 
