@@ -1,0 +1,235 @@
+.one-panel{background-color: white;
+border:3px solid brown;
+border-radius:10px;
+width:200px;
+margin-left: 50px;
+display:inline-block;
+box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
+
+            .k{color:black;
+                text-align: center;
+                display: block;
+                margin-top: 30px;
+            font-weight: bolder;
+        font-size:50px;
+        margin-bottom: 15px;
+}
+.avail{display:block;
+text-align: center;
+font-weight: 700;
+margin-top: 0px;
+font-size: large;
+}
+
+.sec{display:block;
+border-radius: 30px;
+width:150px;
+margin-top:0px;
+margin: 0 auto;
+}
+
+.boho{display:block;
+text-align: center;
+font-weight: bold;
+font-size: large;
+margin-bottom: 5px;
+}
+
+.price-one{display:block;
+text-align: center;
+margin-bottom: 5px;
+font-weight: 500;
+color:green;
+margin-top:7px;
+}
+
+.light{display: block;
+text-align: center;
+font-weight: 500;
+margin-top: 0px;
+font-size: small;
+}
+
+.book-one{background-color: rgb(19, 149, 149);
+color:white;
+display: block;
+margin: 0 auto;
+border: none;
+padding:5px 10px;
+border-radius: 8px;}
+.book-one:hover{background-color: rgb(43, 171, 226);}
+     
+    .two-panel{
+background-color: white;
+border: none;
+border-radius:10px;
+width:200px;
+margin-top: 0px;
+margin-left: 210px;
+display:inline-block;
+border:3px solid brown;
+box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
+    
+    .first{display:block;
+border-radius: 30px;
+width:150px;
+margin: 0 auto;
+margin-top:0px}
+
+.kinky{display:block;
+text-align: center;
+font-weight: bold;
+font-size: large;
+margin-bottom: 5px;}
+
+.price-two{display:block;
+text-align: center;
+margin-bottom: 5px;
+font-weight: 500;
+color:green;
+margin-top:7px;}
+
+.natural{display: block;
+text-align: center;
+font-weight: 500;
+margin-top: 0px;}
+
+.book-two{background-color: rgb(19, 149, 149);
+color:white;
+display: block;
+margin: 0 auto;
+border: none;
+padding:5px 10px;
+border-radius: 8px;}
+.book-two:hover{background-color: rgb(43, 171, 226);}
+
+.third-panel{background-color: white;
+border: none;
+border-radius:10px;
+width:200px;
+margin: 20px auto 0;
+display:block;
+border:3px solid brown;
+box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);}
+
+.third{display:block;
+border-radius: 30px;
+width:200px;
+margin: 0 auto;}
+
+.patewo{display:block;
+text-align: center;
+font-weight: bold;
+font-size: large;
+margin-bottom: 5px;}
+
+.price-three{display:block;
+text-align: center;
+margin-bottom: 5px;
+font-weight: 500;
+color:green;
+margin-top:7px;}
+
+.a{display: block;
+text-align: center;
+font-weight: 500;
+margin-top: 0px;}
+
+.book-three{background-color: rgb(19, 149, 149);
+color:white;
+display: block;
+margin: 0 auto;
+border: none;
+padding:5px 10px;
+border-radius: 8px;}
+.book-three:hover{background-color: rgb(43, 171, 226);}
+
+.fourth-panel{background-color: white;
+border:3px solid brown;
+border-radius:10px;
+width:200px;
+margin-left: 50px;
+margin-top: 20px;
+display:inline-block;
+box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
+
+.fourth{display:block;
+border-radius: 30px;
+width:150px;
+margin-top:0px;
+margin: 0 auto;}
+
+.corn{display:block;
+text-align: center;
+font-weight: bold;
+font-size: large;
+margin-bottom: 5px;}
+
+.price-four{display:block;
+text-align: center;
+margin-bottom: 5px;
+font-weight: 500;
+color:green;
+margin-top:7px;}
+
+.easy{display: block;
+text-align: center;
+font-weight: 500;
+margin-top: 0px;}
+
+.book-four{background-color: rgb(19, 149, 149);
+color:white;
+display: block;
+margin: 0 auto;
+border: none;
+padding:5px 10px;
+border-radius: 8px;}
+.book-four:hover{background-color: rgb(43, 171, 226);}
+
+.fifth-panel{background-color: white;
+border: none;
+border-radius:10px;
+width:200px;
+margin-top: 20px;
+margin-left: 210px;
+display:inline-block;
+border:3px solid brown;
+box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
+
+.fifth{display:block;
+border-radius: 30px;
+width:150px;
+margin: 0 auto;
+margin-top:0px}
+
+.s{display:block;
+text-align: center;
+font-weight: bold;
+font-size: large;
+margin-bottom: 5px;}
+
+.price-five{display:block;
+text-align: center;
+margin-bottom: 5px;
+font-weight: 500;
+color:green;
+margin-top:7px;}
+
+.neat{display: block;
+text-align: center;
+font-weight: 500;
+margin-top: 0px;}
+
+.book-five{background-color: rgb(19, 149, 149);
+color:white;
+display: block;
+margin: 0 auto;
+border: none;
+padding:5px 10px;
+border-radius: 8px;}
+.book-five:hover{background-color: rgb(43, 171, 226);}
+
